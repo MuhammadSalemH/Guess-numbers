@@ -2,4 +2,4 @@
 
 A Guess numbers made in pure HTML, CSS and vanilla JavaScript for DOM Manipulation.
 
-Live preview:
+Live preview: [Guess](https://guess-numbers-three.vercel.app/)
